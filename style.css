@@ -1,0 +1,157 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.headpage{
+    width: 1349px;
+    height: 514px;
+    background-image: url(image/headpic.jpg);
+    background-size: 1351px 553px;
+    background-position: left;
+    background-repeat: no-repeat;
+ 
+}
+.headpage img{
+    width: 56px;
+    position: relative;
+    left: 213px;
+    top: 50px;
+    z-index: 1;
+}
+
+.title{
+    position: relative;
+    height: 40px;
+    width: 140px;
+    left: 284px;
+    font-size: 27px;
+    top: -32px;
+    color: white;
+    z-index: 1;
+}
+
+/*navigation bar started*/
+
+.navbar{
+    position: relative;
+    left: 492px;
+    width: 562px;
+    height: 55px;
+    font-size: 27px;
+    word-spacing: 25px;
+    top: -73px;
+    z-index: 1;
+}
+.navbar a{
+    z-index: 1;
+    color: white;
+    text-decoration: none;
+}
+
+.registartion{
+    float: right;
+    position: relative;
+    left: -114px;
+    top: -127px;
+    z-index: 1;
+}
+
+.registartion button{
+    width: 136px;
+    font-size: 21px;
+    color: white;
+    background-color: #fdd017;
+    border: none;
+    border-radius: 7px;
+    height: 37px;
+}
+
+
+
+/*main page started */
+
+.mainpage{
+    height: 191px;
+    width: 850px;
+    position: relative;
+    left: 220px;
+    top: -88px;
+    z-index: 1;
+    color: white;
+
+}
+
+.mainpage h2{
+    font-size: 41px;
+    position: relative;
+    left: -2px;
+    top: 19px;
+    z-index: 1;
+    color: white;
+}
+
+.mainpage p{
+    font-size: 20px;
+    z-index: 1;
+    color: white;
+}
+
+/*demo section started*/
+
+.demo{
+    position: relative;
+    top: -58px;
+    width: 158px;
+    height: 48px;
+    left: 220px;
+    z-index: 1;
+}
+
+.demo button{
+    font-size: 23px;
+    width: 145px;
+    height: 42px;
+    background-color: #fdd017;
+    border: none;
+    border-radius: 14px;
+    color: white;
+    font-weight: 500;
+}
+
+.sticker{
+    background-color: rgba(0, 0, 255, 0.39);
+    width: 1349px;
+    height: 523px;
+    position: relative;
+    top: -473px;
+    left: 0px;
+}
+
+/*service section start*/
+
+.service{
+    position: relative;
+    left: 160px;
+    width: 744px;
+}
+
+.service h1{
+    position: relative;
+    left: 40px;
+    width: 204px;
+    height: 54px;
+    top: 12px;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.service p{
+    position: relative;
+    left: 40px;
+    width: 522px;
+    height: 82px;
+    font-size: 21px;
+    top: -14px;
+}
+
+
